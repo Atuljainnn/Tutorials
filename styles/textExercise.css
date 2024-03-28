@@ -1,0 +1,157 @@
+
+p{ 
+  margin-top:0;
+  margin-bottom:0;
+
+}
+.title{
+  font-family:tahoma;
+  font-weight:bold;
+  font-size:30px;
+  margin-bottom:2cqmin;
+ }
+
+.deal{
+  font-family:arial;
+  font-weight:bold;
+  font-size:26px;
+  margin-bottom:8px;
+ }
+
+.sale{
+  font-family: Arial;
+  color: red;
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom:20px;
+  }
+
+.course-titles{
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 3px;
+   }
+
+.sub-title{
+  font-family: verdana;
+  color: rgb(100, 100, 100);
+  margin-bottom: 18px;
+  }
+
+.content{
+  font-family: verdana;
+  width:300px;
+  margin-bottom:18px;
+  line-height:22px;
+ }
+
+.button{
+  font-family: Verdana;
+  background-color: green;
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+ }
+
+.shopping-title {
+  font-family: Arial;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align:center;
+}
+
+.subtitle2{
+  font-family: Arial;
+  margin-bottom: 20px;
+  text-align:center;
+}
+
+.link {
+  font-family: Arial;
+  color: rgb(58, 108, 199);
+  text-align:center;
+  margin-bottom:60px;
+  }
+
+
+.new {
+  font-family: arial;
+  color: rgb(245, 99, 0);
+  margin-bottom: 10px;
+  text-align:center;
+}
+
+.product {
+  font-family: arial;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align:center;
+}
+
+.title3 {
+  font-family: arial;
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-align:center;
+}
+
+.price {
+  font-family: arial;
+  margin-bottom: 25px;
+  text-align:center;
+}
+
+.buy {
+  font-family: arial;
+  background-color: rgb(0, 113, 227);
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+.buy1{
+  text-align:center;
+}
+
+
+
+.tweet-header {
+  font-family: arial;
+  font-size:18px;
+  margin-bottom: 5px;
+ }
+
+.tweet-author {
+  font-weight: bold;
+  }
+
+.tweet-info {
+  color: rgb(100, 100, 100);
+  }
+
+.tweet {
+  font-family: arial;
+  font-size:18px;
+  width: 600px;
+  line-height: 25px;
+  margin-bottom: 20px;
+  }
+
+.twitter-handle {
+  color: rgb(29, 155, 240);
+  }
